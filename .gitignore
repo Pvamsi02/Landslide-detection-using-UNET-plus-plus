@@ -1,0 +1,13 @@
+# exclude from git
+__pycache__
+*.txt
+exp/*
+*.sh
+*.tif
+*.npy
+validation_map/*
+test_map/*
+train.ipynb
+train_epoch.ipynb
+temp*
+snapshots/*
